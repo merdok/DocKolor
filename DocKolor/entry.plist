@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = DocKolor;
+	cell = PSLinkCell;
+	detail = DocKolorListController;
+	icon = DocKolor.png;
+	isController = 1;
+	label = DocKolor;
+    };
+}
